@@ -1,0 +1,13 @@
+.game__over h1 {
+    font-size: 2.6rem;
+}
+
+.game__over h2 {
+    font-size: 1.8rem;
+}
+
+.game__over h2 span {
+    color: #ecfa00;
+    font-size: 2rem;
+}
+
